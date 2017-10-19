@@ -1,0 +1,6 @@
+[package]
+name = "vpstest"
+version = "0.1.0"
+authors = ["xiaojieluo <xiaojieluoff@gmail.com>"]
+
+[dependencies]
